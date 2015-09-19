@@ -1,0 +1,9 @@
+E:\ISTAT2\Source\IstatRegistryWebService\IstatRegistryWebService\bin\IstatRegistryWebService.dll
+E:\ISTAT2\Source\IstatRegistryWebService\IstatRegistryWebService\bin\IstatRegistryWebService.pdb
+E:\ISTAT2\Source\IstatRegistryWebService\IstatRegistryWebService\obj\Debug\IstatRegistryWebService.dll
+E:\ISTAT2\Source\IstatRegistryWebService\IstatRegistryWebService\obj\Debug\IstatRegistryWebService.pdb
+E:\ISTAT2\Source\ISTATRegistry\IstatRegistryWebService\IstatRegistryWebService\bin\IstatRegistryWebService.dll
+E:\ISTAT2\Source\ISTATRegistry\IstatRegistryWebService\IstatRegistryWebService\bin\IstatRegistryWebService.pdb
+E:\ISTAT2\Source\ISTATRegistry\IstatRegistryWebService\IstatRegistryWebService\obj\Debug\IstatRegistryWebService.dll
+E:\ISTAT2\Source\ISTATRegistry\IstatRegistryWebService\IstatRegistryWebService\obj\Debug\IstatRegistryWebService.pdb
+E:\ISTAT2\Source\ISTATRegistry\IstatRegistryWebService\IstatRegistryWebService\obj\Debug\IstatRegistryWebService.csprojResolveAssemblyReference.cache
